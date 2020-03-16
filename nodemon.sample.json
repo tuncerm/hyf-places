@@ -1,0 +1,14 @@
+{
+    "env":{
+        "DB_USER": "username",
+        "DB_PSW": "password",
+        "DB_HOST": "testbed-qtc2h.azure.mongodb.net",
+        "DB_NAME": "hyf-test",
+        "JWT_SECRET": "Some secret",
+        "GEOCODE_HOST": "https://api.mapbox.com/geocoding/v5/mapbox.places/",
+        "GEOCODE_ACCESS_TOKEN": "pk.secret.key",
+        "CLOUDINARY_CLOUD_NAME": "somename",
+        "CLOUDINARY_API_KEY": "somekey",
+        "CLOUDINARY_API_SECRET": "somesecret"
+    }
+}
